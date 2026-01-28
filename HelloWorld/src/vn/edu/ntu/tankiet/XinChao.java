@@ -13,7 +13,8 @@ public class XinChao {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.printf("Tôi đang học lập trình Java và đang thực hành GIT.");
+		System.out.println("Xin chào thế giới Java!");
+        System.out.println("Chào mừng đến với lập trình Java");
+        System.out.println("5 + 3 = " + (5 + 3));
 	}
-
 }
