@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         String fileName = "sothuc.txt"; // Tên file chứa 80 số thực
         ArrayList<Integer> danhSachSo = new ArrayList<>();
-        int ngaySinh = 24; // Giả sử ngày sinh là 23
+        int ngaySinh = 24; // Giả sử ngày sinh là 24
         boolean timThay = false;
 
         try {
